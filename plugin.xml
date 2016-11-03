@@ -2,7 +2,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
            id="com.outsystems.mobile.stetho"
-      version="0.0.1">
+      version="0.0.2">
     <name>Stetho Plugin</name>
     <description>Plugin to integrate with Stetho a debug bridge for Android applications</description>
     <license>MIT License</license>
