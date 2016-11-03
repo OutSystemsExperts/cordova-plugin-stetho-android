@@ -29,6 +29,10 @@ The Stetho is initialized when the Cordova is initialized, so the only requirmen
 
 ---
 
+## Support
+
+This plugin is not supported by OutSystems. You may use the [discussion forums](https://www.outsystems.com/forums/) to leave suggestions or obtain best-effort support from the community, including from OutSystems Experts who created this component.
+
 #### Contributors
 - OutSystems - Mobility Experts
     - João Gonçalves, <joao.goncalves@outsystems.com>
